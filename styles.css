@@ -232,11 +232,12 @@ nav .navbar .links li:hover .js-sub-menu {
 }
 .heading {
   font-size: 30px;
-  font-weight: 500;
+  font-weight: 700;
   color: #26bcb9c7;
 }
 .txt-1 {
   font-size: 15px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .heading-2 {
