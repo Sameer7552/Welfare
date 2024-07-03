@@ -358,6 +358,18 @@ nav .navbar .links li:hover .js-sub-menu {
   font-weight: 700;
   color: #26bcb9c7;
 }
+.view{
+  font-size: 20px;
+  text-align: center;
+  font-weight: 700;
+  color: #1e918f;
+  margin: auto;
+}
+.view:hover{
+  color: #26bcb9c7;
+  transition: ease-in-out .3s;
+}
+
 
 
 @media (max-width: 1050px) {
