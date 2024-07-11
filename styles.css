@@ -244,9 +244,12 @@ nav .navbar .links li:hover .js-sub-menu {
   text-align: center;
   font-size: 35px;
   font-weight: 700;
-  color: #26bcb9c7;
+  color: white;
 }
-
+.heading-back{
+  background-color: #1e918f;
+  padding: 2rem;
+}
 /* card */
 .ag-format-container {
   width: 1142px;
@@ -446,7 +449,18 @@ ol>li>a:hover{
   text-align: center;
   z-index: 2; /* Ensure the text is above the overlay */
 }
-
+.heading-4{
+  color: #000000a6;
+  font-size: 1.4em;
+  font-weight: bold;
+  text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.219);
+}
+.heading-5{
+  color: #1e918f;
+  font-size: 1.4em;
+  font-weight: bold;
+  text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.219);
+}
 
 
 
