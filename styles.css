@@ -397,7 +397,7 @@ ol>li>a:hover{
   position: relative;
   display: inline-block;
   width: 95%;
-  height: 250px;
+  height: 60%;
   overflow: hidden;
   border: 5px solid #00A19D; /* Matching the website theme color */
   border-radius: 10px; /* Rounded corners for a smooth look */
@@ -438,7 +438,7 @@ ol>li>a:hover{
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white; /* Ensure the heading text is white */
+  color: rgba(255, 255, 255, 0.863); /* Ensure the heading text is white */
   font-size: 1.8em;
   font-weight: bold;
   text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.9);
@@ -569,6 +569,9 @@ ol>li>a:hover{
   }
   .ag-courses-item_title {
     font-size: 24px;
+  }
+  .heading-3{
+    font-size: 1.5em;
   }
 }
 
