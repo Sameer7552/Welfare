@@ -400,7 +400,7 @@ ol>li>a:hover{
   position: relative;
   display: inline-block;
   width: 95%;
-  height: 60%;
+  height: 250px;
   overflow: hidden;
   border: 5px solid #00A19D; /* Matching the website theme color */
   border-radius: 10px; /* Rounded corners for a smooth look */
